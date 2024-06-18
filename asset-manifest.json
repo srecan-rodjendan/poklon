@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/poklon/static/css/main.bc034730.css",
-    "main.js": "/poklon/static/js/main.189e6d27.js",
+    "main.css": "/poklon/static/css/main.d5c29be2.css",
+    "main.js": "/poklon/static/js/main.a1274b2b.js",
     "static/media/fourth.jpg": "/poklon/static/media/fourth.86de1d77ebeb4d0e73d1.jpg",
     "static/media/home.jpg": "/poklon/static/media/home.e3f18763caf38451fea9.jpg",
     "static/media/blue.png": "/poklon/static/media/blue.1e57d9b75a6ba1724d5b.png",
     "static/media/second.jpg": "/poklon/static/media/second.7b0e119ad6f874122b3e.jpg",
+    "static/media/sorry.jpg": "/poklon/static/media/sorry.f794b613e15bdbccfe72.jpg",
     "static/media/sixsth.jpg": "/poklon/static/media/sixsth.beb7fc230dc588fb1181.jpg",
     "static/media/third.jpg": "/poklon/static/media/third.5233f15be413c75be8bb.jpg",
     "static/media/backround.jpg": "/poklon/static/media/backround.d041a96ee8887acbf2f9.jpg",
     "static/media/first.jpg": "/poklon/static/media/first.57c3d3163a1566552be2.jpg",
     "static/media/venice.jpg": "/poklon/static/media/venice.ecbcb59620182f6c1417.jpg",
     "index.html": "/poklon/index.html",
-    "main.bc034730.css.map": "/poklon/static/css/main.bc034730.css.map",
-    "main.189e6d27.js.map": "/poklon/static/js/main.189e6d27.js.map"
+    "main.d5c29be2.css.map": "/poklon/static/css/main.d5c29be2.css.map",
+    "main.a1274b2b.js.map": "/poklon/static/js/main.a1274b2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc034730.css",
-    "static/js/main.189e6d27.js"
+    "static/css/main.d5c29be2.css",
+    "static/js/main.a1274b2b.js"
   ]
 }
