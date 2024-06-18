@@ -18,7 +18,7 @@ import Twelfth from "./pages/Twelfth";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/">
        
         <Routes>
           <Route path="/" element={<Home />} />
