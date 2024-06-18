@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/poklon/static/css/main.bc034730.css",
-    "main.js": "/poklon/static/js/main.9244ac7a.js",
+    "main.js": "/poklon/static/js/main.189e6d27.js",
     "static/media/fourth.jpg": "/poklon/static/media/fourth.86de1d77ebeb4d0e73d1.jpg",
     "static/media/home.jpg": "/poklon/static/media/home.e3f18763caf38451fea9.jpg",
     "static/media/blue.png": "/poklon/static/media/blue.1e57d9b75a6ba1724d5b.png",
@@ -13,10 +13,10 @@
     "static/media/venice.jpg": "/poklon/static/media/venice.ecbcb59620182f6c1417.jpg",
     "index.html": "/poklon/index.html",
     "main.bc034730.css.map": "/poklon/static/css/main.bc034730.css.map",
-    "main.9244ac7a.js.map": "/poklon/static/js/main.9244ac7a.js.map"
+    "main.189e6d27.js.map": "/poklon/static/js/main.189e6d27.js.map"
   },
   "entrypoints": [
     "static/css/main.bc034730.css",
-    "static/js/main.9244ac7a.js"
+    "static/js/main.189e6d27.js"
   ]
 }
